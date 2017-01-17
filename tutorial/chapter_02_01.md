@@ -52,4 +52,4 @@ This is last line
 ```
 
 Now proceed to next chapter with the familiar `Goto Anything` shortcut. The 
-filename is chapter_2_2.md
+filename is chapter_02_02.md
